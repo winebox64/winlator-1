@@ -12,6 +12,7 @@ Please describe the issue in as much detail as possible.
 ### General Information
 - Winlator Version:
 - Smartphone Model:
+- Android Version:
 
 ### Container Settings
 - Graphics Driver:
